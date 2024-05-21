@@ -1,0 +1,8 @@
+pandas
+prophet
+streamlit
+plotly
+datetime
+firebase_admin
+time
+os
